@@ -1,2 +1,2 @@
 # data-scrap
-Addition program using python
+Arthematic program using python
